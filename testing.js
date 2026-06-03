@@ -1,1 +1,1 @@
-fetch("google.com.t71d8w1eazs1mgxrvl7txtaw3n9ex5lu.oastify.com");
+fetch("https://google.com.t71d8w1eazs1mgxrvl7txtaw3n9ex5lu.oastify.com/");
